@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AI Creation</string>
+    <string name="title_activity_main">AI Creation</string>
+    <string name="package_name">com.connector.screen</string>
+    <string name="custom_url_scheme">com.connector.screen</string>
+</resources>
